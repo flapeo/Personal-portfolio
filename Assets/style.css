@@ -44,17 +44,14 @@ h1 {
 
 
 nav ul {
-    
-
-float: right;
+font-weight: 800;
+font-size: larger;
+float: left;
     display: flex;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
 }
-    ul {
-        text-decoration: none;
-    }
-    
+   
 li {
     list-style-type: none;
     float: right;
@@ -110,9 +107,9 @@ footer {
     height: 150px;
 }
 .box-wrapper {
-    width: 90%;
+    width: 91%;
     height: 70%;
-    border: 15px solid rgb(255, 255, 255);
+    border: 20px solid rgb(255, 255, 255);
     padding:50px;
     margin: 20px;
     background: rgb(0, 238, 255);
@@ -123,9 +120,9 @@ footer {
 }
 
 .box {
-background-image: url(https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg);
+background-image: url(https://www.salessolutionsinc.net/wp-content/uploads/2021/09/comin-soon-logo.jpg);
 height: 40%;
-width: 30%;
+width: 25%;
 border-style: double;
 border-radius: 1%;
 border: 5px solid rgb(0, 34, 230); 
@@ -133,10 +130,11 @@ border: 5px solid rgb(0, 34, 230);
 
 
 footer{
+    font-stretch: expanded;
     display: flex;
     font-size: 36px;
     background-color: lavenderblush;
-    height: 10%;
+    
     
 
 
