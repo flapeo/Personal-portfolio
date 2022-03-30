@@ -14,7 +14,7 @@ header
 }
 h1 {
     
-    margin-top: 2%;
+    margin-top: 0%;
     margin-left: 3%;
     font-size: 64px;
     border-radius: 20px;
@@ -32,10 +32,11 @@ h1 {
  nav {
     padding-top: 10%;
     display: flex;
-    font-size: 20px;
+    font-size: 24px;
     width: 25%;
     margin-left: 15%;
     padding: 15px;
+
   
     
 }
@@ -45,7 +46,6 @@ h1 {
 
 nav ul {
 font-weight: 800;
-font-size: larger;
 float: left;
     display: flex;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -72,6 +72,7 @@ body {
     margin-top: 0%;
     margin-right: 0%;
     margin-left: 0%;
+    margin-bottom: 0%;
     
     
 
@@ -107,7 +108,7 @@ footer {
     height: 150px;
 }
 .box-wrapper {
-    width: 91%;
+    width: 90.5%;
     height: 70%;
     border: 20px solid rgb(255, 255, 255);
     padding:50px;
@@ -120,7 +121,8 @@ footer {
 }
 
 .box {
-background-image: url(https://www.salessolutionsinc.net/wp-content/uploads/2021/09/comin-soon-logo.jpg);
+    background-color: black;
+background-image: url(http://assets.stickpng.com/thumbs/58889568bc2fc2ef3a1860bc.png);
 height: 40%;
 width: 25%;
 border-style: double;
@@ -138,4 +140,13 @@ footer{
     
 
 
+}
+
+.aboutme
+{
+    
+    color: aliceblue;
+font-size: 34px;
+font-weight: 600;
+float: left;
 }
